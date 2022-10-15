@@ -1,0 +1,32 @@
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\GemCad_Viewer.exe
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\GemCad_Viewer.pdb
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\3DTools.dll
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\MIConvexHullPlugin.dll
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\StarMath.dll
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csprojResolveAssemblyReference.cache
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\MainWindow.baml
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\App.g.cs
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer_MarkupCompile.cache
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.g.resources
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.Properties.Resources.resources
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csproj.GenerateResource.Cache
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.exe
+F:\Main Working\2015\02\3d_testing\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.pdb
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\GemCad_Viewer.exe
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\GemCad_Viewer.pdb
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\3DTools.dll
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\MainWindow.baml
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\MainWindow.g.cs
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\App.g.cs
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer_MarkupCompile.cache
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.g.resources
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.Properties.Resources.resources
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csproj.GenerateResource.cache
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csproj.CoreCompileInputs.cache
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csproj.CopyComplete
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.exe
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.pdb
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\MIConvexHullPlugin.dll
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\bin\Debug\StarMath.dll
+D:\works\2022\ASC_3DViewer_WPF\ASC_3DViewer_WPF\obj\x86\Debug\GemCad_Viewer.csprojAssemblyReference.cache
